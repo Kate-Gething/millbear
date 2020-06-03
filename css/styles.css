@@ -162,17 +162,20 @@ padding: 50px 0 100px 0;
 
 #footer {
 text-align: center;
+  padding-top: 80px;
 
 }
 
 .icons {
   color: #84a9ac;
-  padding:10 10 10 10;
 }
 
+a:hover {
+  color: grey;
+}
 .policy {
   color:#84a9ac;
-  padding: 10 10 10 10;
+   padding-left: 30;
 }
 
 
