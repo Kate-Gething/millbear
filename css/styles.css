@@ -177,12 +177,15 @@ a:hover {
   color:#84a9ac;
    padding-left: 30;
 }
-
-#Thankyou {
-  background-color:#84a9ac;
+#Thankyou{
+background-color:#84a9ac;
 }
 
-.thankyou {
-  text-allign:center;
-  text-color: white;
-}
+
+
+  .thankyou {
+    font-family: montserrat;
+    text-allign:center;
+    text-color: white;
+   
+  }
