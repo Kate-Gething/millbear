@@ -189,3 +189,25 @@ background-color:#84a9ac;
     text-color: white;
    
   }
+
+  #Thankyou{
+background-color:#84a9ac;
+  padding: 100px;
+}
+
+
+
+  .thankyou {
+    font-family: montserrat;
+    text-allign:center;
+    text-color: white;
+    background-color: #84a9ac;
+    padding-top: 100px;
+    padding-bottom: 300px;
+
+  }
+
+  .row {
+    background-color: #84a9ac;
+  }
+
