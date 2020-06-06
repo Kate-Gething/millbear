@@ -156,6 +156,10 @@ padding: 50px 0 100px 0;
   background-color: #84a9ac;
 }
 
+.card-body {
+  font-family: Montserrat;
+}
+
 .imgborder {
   padding: 0 15px 0 15px;
 }
