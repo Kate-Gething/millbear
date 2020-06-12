@@ -173,6 +173,9 @@ text-align: center;
 
 .icons {
   color: #84a9ac;
+  font-size: 25px;
+    padding-left:2%;
+    padding-right:2%;
 }
 
 a:hover {
@@ -180,7 +183,7 @@ a:hover {
 }
 .policy {
   color:#84a9ac;
-   padding-left: 30;
+   padding-right: 2%;
 }
 
 
